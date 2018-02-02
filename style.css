@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.blok {
+  background-color: white;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+
+.image {
+  background-image: url(1.jpg);
+  height: 500px;
+  background-attachment: fixed;
+  background-position-x: center;
+}
+.text {
+height: 200px;
+
+}
+#left-center-text {
+  text-align: right;
+  margin-right: 100%;
+}
+#right-center-text {
+  text-align: left;
+    margin-left: 100%;
+width: 257px;
+}
+.center-text {
+  font-size: 70px;
+color: white;
+font-weight: bolder;
+margin-top: 175px;
+font-family: 'Source Sans Pro', sans-serif;
+}
